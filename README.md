@@ -15,7 +15,8 @@ This repository presents a comparative study of machine learning and deep learni
 * **Visualization:** Matplotlib, Seaborn
 
 ## Results
-*(Insert an image here showing the predicted vs. actual stock prices curve)*
+<img width="1162" height="625" alt="download" src="https://github.com/user-attachments/assets/82182546-3a59-4c39-ba8c-475172059f76" />
+
 > The LSTM model demonstrated superior ability in capturing non-linear patterns and volatility clustering in the S&P 500 dataset, yielding the lowest MAPE among the tested models.
 
 ## Usage
